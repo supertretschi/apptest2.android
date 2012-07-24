@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">App1_button</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="button1">Knopf</string>
+    <string name="willkommen">HuHuHuHu</string>
+    <string name="weiter">und Los jetzt</string>
+    <string name="hallo">höhöhhö</string>
+    <string name="fertig">feddisch</string>
+    <string name="eingabe">hophop sach was</string>
+</resources>
